@@ -1,1 +1,2 @@
-console.log('aplikasi baru');
+let nama = "Iqbal"
+console.log(`Selamat Datang ${nama}`);
