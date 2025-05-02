@@ -1,2 +1,3 @@
 let nama = "Iqbal"
-console.log(`Selamat Datang ${nama}`);
+let tempat = "Course-Net"
+console.log(`Selamat Datang ${nama} di ${tempat}`);
